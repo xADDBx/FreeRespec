@@ -1,1 +1,19 @@
-[h1]FreeRespec[/h1]
+[h1]Redress Character[/h1]
+Allows changing the Respec Cost Behaviour.
+
+[h2]Usage[/h2]
+To use:
+[olist]
+[*]Click the button in the FreeRespec mod section of the UnityModManager GUI.
+[*]Pick one of the [b]four different modes[/b]:
+[list]
+[*][b]Free[/b]: Respecs are always free.
+[*][b]Always pay x[/b]: Respecs will cost a certain amount you can choose.
+[*][b]Pay at most x[/b]: Respecs will cost the normal amount but stop getting more expensive after reaching a certain amount you can choose.
+[*][b]Normal Game Behaviour[/b]: Literally normal game behaviour.
+[/list]
+[/olist]
+
+
+[h2]Installation[/h2]
+Installation is similar to [url=https://github.com/cabarius/ToyBox/wiki/Installing-Toybox-for-RT-(Steam-Workshop-Edition)] how it's done with ToyBox[/url].
