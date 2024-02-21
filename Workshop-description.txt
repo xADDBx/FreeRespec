@@ -1,4 +1,4 @@
-[h1]Redress Character[/h1]
+[h1]FreeRespec[/h1]
 Allows changing the Respec Cost Behaviour.
 
 [h2]Usage[/h2]
