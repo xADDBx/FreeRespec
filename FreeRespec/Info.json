@@ -1,0 +1,12 @@
+﻿{
+  "Id": "FreeRespec",
+  "DisplayName": "FreeRespec",
+  "Author": "ADDB",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.25.0",
+  "Requirements": [],
+  "AssemblyName": "FreeRespec.dll",
+  "EntryMethod": "FreeRespec.Main.Load",
+  "HomePage": "",
+  "Repository": ""
+}
